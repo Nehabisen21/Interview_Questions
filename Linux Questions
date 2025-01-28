@@ -1,1 +1,65 @@
+                             ***BASIC LINUX QUESTIONS***
 Question 1: What is the Linux operating system?
+Question 2: What is the root directory in Linux?
+Question 3: What is a Linux distribution (distro)? Can you name a few popular Linux distributions?
+Question 4: What Is Difference Between Linux & Unix?
+Question 5: What Is BASH?
+Question 6: What Is Linux Kernel?
+Question 7: Explain the Linux file system hierarchy.
+Question 8: How do you check the current working directory in Linux?
+Question 9: What are Linux file permissions? Explain how to change them using chmod.
+Question 10: What does the command ls -l do?
+Question 11: What is the use of the pwd command?
+Question 12: What are hidden files in Linux? How can you view them?
+Question 13: Explain the purpose of the man command.
+Question 14: How do you view the contents of a file in Linux? Mention at least three commands.
+Question 15: What is the difference between cp, mv, and rm commands?
+Question 16: What is the grep command used for? Provide an example?
+Question 17: Where is password file located in Linux and how can you improve the security of password file?
+Question 18: What are Processes in Linux?
+Question 19: What is crontab? what are use case of crontab?
+Question 20: What Are Different States Of A Processes In Linux?
+Question 21: How To Change Priority Of A Processes In Linux?
+Question 22: What is Nice Value?
+Question 23: Explain Linux Architecture
+               
+                        ***INTERMEDIATE QUESTIONS***
+Question 1: What are symbolic links? How do they differ from hard links?
+Question 2: What is soft link and hard link?
+Question 3: What is INODE?
+Question 4: What is the purpose of the /etc/passwd and /etc/shadow files?
+Question 5: How can you view running processes in Linux?
+Question 6: Explain the difference between kill and killall commands.
+Question 7: What is a shell in Linux? Name some commonly used shells.
+Question 8: How do you schedule tasks in Linux using cron? Provide an example.
+Question 9: What is the df command? How is it different from du?
+Question 10: What is a package manager? Name a few Linux package managers.
+Question 11: How can you search for a specific package or application using a package manager?
+Question 12: What is the purpose of sudo in Linux?
+
+                      ***ADVANCE LEVEL QUESTION***
+Question 1: What are system logs in Linux? Where are they stored?
+Question 2: Explain how to monitor system performance using top or htop.
+Question 3: What is ssh? How do you use it to access a remote server?
+Question 4: What is a firewall in Linux, and how do you configure it using iptables or ufw?
+Question 5: How do you find and terminate a specific process using its PID?
+Question 6: What is the difference between a process and a thread?
+Question 7: What is a Linux kernel? Can you upgrade it?
+Question 8: What are environment variables? How do you set and use them?
+Question 9: How would you mount a file system in Linux?
+Question 10: What are runlevels? How do they relate to system initialization?
+Question 11: What is the difference between a swap partition and a normal partition?
+Question 12: Explain the purpose and use of awk and sed commands.
+Question 13: What’s the difference between the grep and awk commands?
+
+                      ***NETWORKING QUESTIONS***
+Question 1: Explain the difference between TCP and UDP. How do you check open ports on a Linux server?
+Question 2: What is a network bridge, and how would you configure one in Linux?
+Question 3: How do you configure a static IP address on a Linux server?
+Question 4: What is the purpose of the iptables or nftables command? How would you configure a basic firewall rule?
+Question 5: How would you analyze and troubleshoot network latency issues using ping, traceroute, and tcpdump?
+Question 6: What is a VPN, and how would you set it up on a Linux system?
+Question 7: Explain how DNS resolution works in Linux. What is the role of /etc/hosts and /etc/resolv.conf?
+Question 8: How do you set up and manage a DHCP server in Linux?
+
+
